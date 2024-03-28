@@ -10,6 +10,10 @@
 
 3. 가게의 일정 관리 (아르바이트, 손님 예약 등)
 
+### Cloud Architecture
+
+![alt text](./Application%20Architecture.png)
+
 <!--
 
 **Here are some ideas to get you started:**
